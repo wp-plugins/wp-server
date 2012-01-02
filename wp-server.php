@@ -3,7 +3,7 @@
 Plugin Name: WP Server
 Plugin URI: http://nabtron.com/wp-server-plugin/6950/
 Description: Show average server load and uptime of your linux server on top in admin panel 
-Version: 1.0
+Version: 1.1
 Author: Nabeel Khan
 Author URI: http://nabtron.com
 */
@@ -11,7 +11,7 @@ Author URI: http://nabtron.com
 <?php
 add_action('admin_head', 'wp_server_status_css');
 function wp_server_status_css() {
-	echo "<style type='text/css'>#wp_server_status {position: absolute;top: 8px;margin: 0;padding: 0;right: 200px;font-size: 12px;color: #d54e21;}</style>";
+	echo "<style type='text/css'>#wp_server_status {position: absolute;top: 50px;margin: 0;padding: 0;right: 200px;font-size: 12px;color: #d54e21;}</style>";
 }
 
 add_action('admin_footer', 'wp_server_status' );
