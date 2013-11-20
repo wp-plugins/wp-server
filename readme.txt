@@ -3,8 +3,8 @@ Contributors: nabtron
 Donate link: http://nabtron.com/nablab/
 Tags: wrapper, wordpress, server, load, uptime, time, average, linux, status
 Requires at least: 2.5
-Tested up to: 3.3
-Stable tag: 1.1
+Tested up to: 3.7.1
+Stable tag: 1.2
 
 Show average server load and uptime of your linux server on top in admin panel
 
@@ -40,6 +40,9 @@ No it don't, currently only linux server are supported
 1. WP Server on top of wordpress dashboard
 
 == Changelog ==
+
+= 1.2 =
+wp 3.7.1 compatibility fix
 
 = 1.1 =
 wp 3.3 compatibility fix
