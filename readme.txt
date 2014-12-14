@@ -4,7 +4,7 @@ Tags: wordpress, server, load, uptime, time, average, linux, status
 Donate link: http://nabtron.com/donate/
 Requires at least: 2.5
 Tested up to: 4.0.1
-Stable tag: 2.0
+Stable tag: 2.0.1
 License: gnu gpl2
 
 Show average server load and uptime of your linux server on top in admin panel
@@ -25,7 +25,7 @@ It shows:
 
 If useful - Future versions are planned to have more options, so please leave a feedback
 
-Found a bug or have a feature request ? Report here
+Found a bug or have a feature request ? <a href="http://nabtron.com/wp-server-plugin/6950/">Report here</a>
 
 == Installation ==
 1. Upload the plugin to the `/wp-content/plugins/` directory
@@ -37,6 +37,9 @@ Found a bug or have a feature request ? Report here
 2. WP Server settings page
 
 == Changelog ==
+= 2.0.1 =
+fixed missing files
+
 = 2.0 =
 Enhancement: added admin panel settings page
 Enhancement: added legacy option for issue

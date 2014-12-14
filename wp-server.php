@@ -3,7 +3,7 @@
 Plugin Name: WP Server
 Plugin URI: http://nabtron.com/wp-server-plugin/6950/
 Description: Show average server load and uptime for last 1, 5 and 15 minutes of your linux server on top in admin panel with 2 modes to select from. 
-Version: 2.0
+Version: 2.0.1
 Author: Nabtron
 Author URI: http://nabtron.com
 */
